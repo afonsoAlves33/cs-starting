@@ -8,7 +8,7 @@ namespace ConsoleProject
 {
     internal class Conditionals
     {
-        static void Main(string[] args) {
+        static void main(string[] args) {
             char a = 'b'; // Theres also >, <, ==, >=, <=, etc.
 
 

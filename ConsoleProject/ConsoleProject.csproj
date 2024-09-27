@@ -46,6 +46,7 @@
     <Compile Include="BinaryNegation.cs" />
     <Compile Include="Conditionals.cs" />
     <Compile Include="ConvertingValues.cs" />
+    <Compile Include="MathOperators.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="PrintingStringsPart2.cs" />
     <Compile Include="PrintingStringsPart1.cs" />

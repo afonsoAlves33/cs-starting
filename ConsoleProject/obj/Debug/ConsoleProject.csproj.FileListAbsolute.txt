@@ -5,3 +5,10 @@ C:\Users\49258780850\Desktop\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProj
 C:\Users\49258780850\Desktop\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
 C:\Users\49258780850\Desktop\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.exe
 C:\Users\49258780850\Desktop\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.pdb
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\bin\Debug\ConsoleProject.exe
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\bin\Debug\ConsoleProject.pdb
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\obj\Debug\ConsoleProject.csproj.AssemblyReference.cache
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\obj\Debug\ConsoleProject.exe
+C:\dev\cs\Nova pasta\cs-starting\ConsoleProject\obj\Debug\ConsoleProject.pdb

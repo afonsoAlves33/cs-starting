@@ -8,7 +8,7 @@ namespace ConsoleProject
 {
     internal class ConvertingValues
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             string number = "23";
             Console.WriteLine($"var: {number}, type: {number.GetType()}");

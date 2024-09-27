@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\49258780850\\Desktop\\ConsoleProject\\",
+  "WorkspaceRootPath": "C:\\dev\\cs\\Nova pasta\\cs-starting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\49258780850\\desktop\\consoleproject\\consoleproject\\convertingvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\binarynegation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\binarynegation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\convertingvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\convertingvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\49258780850\\desktop\\consoleproject\\consoleproject\\printingstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\printingstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\printingstringspart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\printingstringspart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\vartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\vartypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\printingstringspart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\printingstringspart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|c:\\dev\\cs\\nova pasta\\cs-starting\\consoleproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CC418AD-BDA5-4F36-96FC-53E0E3A8EE16}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BinaryNegation.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\BinaryNegation.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\BinaryNegation.cs",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\BinaryNegation.cs",
+              "RelativeToolTip": "ConsoleProject\\BinaryNegation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:41:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintingStringsPart1.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\PrintingStringsPart1.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\PrintingStringsPart1.cs",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\PrintingStringsPart1.cs",
+              "RelativeToolTip": "ConsoleProject\\PrintingStringsPart1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:38:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConvertingValues.cs",
-              "DocumentMoniker": "C:\\Users\\49258780850\\Desktop\\ConsoleProject\\ConsoleProject\\ConvertingValues.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\ConvertingValues.cs",
               "RelativeDocumentMoniker": "ConsoleProject\\ConvertingValues.cs",
-              "ToolTip": "C:\\Users\\49258780850\\Desktop\\ConsoleProject\\ConsoleProject\\ConvertingValues.cs*",
-              "RelativeToolTip": "ConsoleProject\\ConvertingValues.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\ConvertingValues.cs",
+              "RelativeToolTip": "ConsoleProject\\ConvertingValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:02:03.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PrintingStrings.cs",
-              "DocumentMoniker": "C:\\Users\\49258780850\\Desktop\\ConsoleProject\\ConsoleProject\\PrintingStrings.cs",
-              "RelativeDocumentMoniker": "ConsoleProject\\PrintingStrings.cs",
-              "ToolTip": "C:\\Users\\49258780850\\Desktop\\ConsoleProject\\ConsoleProject\\PrintingStrings.cs",
-              "RelativeToolTip": "ConsoleProject\\PrintingStrings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PrintingStringsPart2.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\PrintingStringsPart2.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\PrintingStringsPart2.cs",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\PrintingStringsPart2.cs",
+              "RelativeToolTip": "ConsoleProject\\PrintingStringsPart2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T11:54:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operators.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\Operators.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\Operators.cs",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\Operators.cs",
+              "RelativeToolTip": "ConsoleProject\\Operators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:35:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VarTypes.cs",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\VarTypes.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\VarTypes.cs",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\VarTypes.cs",
+              "RelativeToolTip": "ConsoleProject\\VarTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:43:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\App.config",
+              "RelativeDocumentMoniker": "ConsoleProject\\App.config",
+              "ToolTip": "C:\\dev\\cs\\Nova pasta\\cs-starting\\ConsoleProject\\App.config",
+              "RelativeToolTip": "ConsoleProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-27T16:38:43.193Z",
               "EditorCaption": ""
             }
           ]

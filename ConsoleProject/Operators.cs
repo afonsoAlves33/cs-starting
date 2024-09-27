@@ -9,7 +9,9 @@ namespace ConsoleProject
     internal class Operators
     {
         static void main(string[] args)
-        {
+        {   
+            // In AND & OR operator you can choose use only one char instead of two, but two chars operators are always faster.  
+
             // Logical AND (&&)
             // Both conditions must be true for the result to be true
             bool andExample1 = true && true;   // true
